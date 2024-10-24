@@ -1,2 +1,4 @@
 # requirements.txt
 azure-functions
+azure-storage-queue
+azure-storage-blob
